@@ -31,14 +31,11 @@ export default function Home() {
             with a focus on simplicity and usability.
           </p>
           <p className="mt-8">
-            I&apos;m currently working at 
-            <a
-              className="text-zinc-100 font-bold hover:text-indigo-300"
+            I&apos;m currently working at <a className="text-zinc-100 font-bold hover:text-indigo-300"
               href="https://addmira.com/"
             >
               Addmira Multimedia
-            </a>
-             where I give my best at offering the best solutions to our client&apos;s
+            </a> where I give my best at offering the best solutions to our client&apos;s
             needs.
           </p>
           <p className="mt-8">
