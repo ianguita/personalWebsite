@@ -26,19 +26,19 @@ export default function Home() {
             Front-end Developer creating thoughtful and creative websites.
           </h1>
           <p className="mt-8">
-            Hi! I'm Ivan Anguita, a Barcelona based web developer with five
+            Hi! I&apos;m Ivan Anguita, a Barcelona based web developer with five
             years of experince. I specialise in fornt-end, working with nextjs
             with a focus on simplicity and usability.
           </p>
           <p className="mt-8">
-            I'm currently working at{" "}
+            I&apos;m currently working at
             <a
               className="text-zinc-100 font-bold hover:text-indigo-300"
               href="https://addmira.com/"
             >
               Addmira Multimedia
-            </a>{" "}
-            where I give my best at offering the best solutions to our client's
+            </a>
+            where I give my best at offering the best solutions to our client&apos;s
             needs.
           </p>
           <p className="mt-8">
@@ -106,7 +106,7 @@ export default function Home() {
             <p className="mt-2">
               CSS is an incredibly powerful tool that can transform a website
               from a plain-looking page to a stunning visual masterpiece. In
-              this article, we'll cover 10 essential CSS techniques that every
+              this article, we&apos;ll cover 10 essential CSS techniques that every
               front-end web developer should know to create visually appealing
               and responsive designs. From mastering the box model to using
               flexbox and grid, these techniques will help you take your web
@@ -125,9 +125,9 @@ export default function Home() {
             </h3>
             <p className="text-xs">22/04/2023</p>
             <p className="mt-2">
-              As a front-end web developer, it's essential to create interfaces
+              As a front-end web developer, it&apos;s essential to create interfaces
               that are accessible to all users, including those with
-              disabilities. In this article, we'll cover some best practices for
+              disabilities. In this article, we&apos;ll cover some best practices for
               creating accessible web interfaces, including using semantic HTML,
               providing alternative text for images, and ensuring keyboard
               navigation. By following these guidelines, you can ensure that
@@ -150,11 +150,11 @@ export default function Home() {
               JavaScript frameworks like React, Vue, and Angular have become
               increasingly popular in recent years for front-end web
               development. However, there are pros and cons to using these
-              frameworks, and it's important to understand them before deciding
-              whether to use them in your projects. In this article, we'll
+              frameworks, and it&apos;s important to understand them before deciding
+              whether to use them in your projects. In this article, we&apos;ll
               explore the benefits and drawbacks of using JavaScript frameworks,
               including their impact on performance, development speed, and
-              maintainability. We'll also provide some tips for choosing the
+              maintainability. We&apos;ll also provide some tips for choosing the
               right framework for your project.
             </p>
             <a
